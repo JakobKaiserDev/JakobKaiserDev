@@ -4,8 +4,8 @@
 
 ### 🔧 FiveM Developer • Lua • JS/TS • UI/UX • Server Systems
 
-Ich entwickle moderne, saubere und leistungsstarke FiveM-Skripte – von Framework-Erweiterungen bis hin zu kompletten Standalone-Systemen.
-Mein Fokus: **Qualität, Stabilität, Design & Performance.**
+I develop modern, clean, and high-performance FiveM scripts – from framework extensions to complete standalone systems.  
+My focus: **quality, stability, design & performance.**
 
 ---
 
@@ -50,21 +50,21 @@ Mein Fokus: **Qualität, Stabilität, Design & Performance.**
 
 ---
 
-## 📜 Nutzungshinweis
+## 📜 Usage Notice
 
-Alle FiveM-Skripte können **frei genutzt** werden.
-**Wiederveröffentlichungen sind verboten.**
-Erwähnungen oder Credits sind optional, würden mich aber freuen.
+All FiveM scripts are **free to use**.  
+**Redistribution is prohibited.**  
+Mentions or credits are optional, but always appreciated.
 
 ---
 
 ## 📬 Contact
 
-📩 **Discord:** `jakobkaiser_newer`
+📩 **Discord:** `jakobkaiser_newer`  
 🗂️ **More Projects:** *(coming soon)*
 
 ---
 
 ## ❤️ Support
 
-Wenn dir meine Arbeit gefällt, hinterlasse gerne eine ⭐ auf meinen Repositories!
+If you like my work, feel free to leave a ⭐ on my repositories!
