@@ -31,7 +31,6 @@ My focus: **quality, stability, design & performance.**
 ### **Tools**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
@@ -47,7 +46,7 @@ My focus: **quality, stability, design & performance.**
 ---
 
 ## 📬 Contact
-📩 **Discord:** `JakobKaiserDev`  
+📩 **Discord:** `jakobkaiser_newer`  
 🗂️ **More Projects:** *(coming soon)*
 
 ---
