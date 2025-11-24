@@ -1,16 +1,18 @@
 ![Banner](github-header-banner.png)
 
-# 👋 Hey, I'm JakobKaiserDev  
+# 👋 Hey, I'm JakobKaiserDev
+
 ### 🔧 FiveM Developer • Lua • JS/TS • UI/UX • Server Systems
 
-I develop modern, clean and high-performance FiveM scripts – from framework extensions to complete standalone systems.  
-My focus: **quality, stability, design & performance.**
+Ich entwickle moderne, saubere und leistungsstarke FiveM-Skripte – von Framework-Erweiterungen bis hin zu kompletten Standalone-Systemen.
+Mein Fokus: **Qualität, Stabilität, Design & Performance.**
 
 ---
 
 ## 🚀 Tech Stack
 
 ### **Languages**
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -22,13 +24,15 @@ My focus: **quality, stability, design & performance.**
 </p>
 
 ### **FiveM / Game Development**
-- ⚡ FiveM Natives  
-- 🎮 ESX / QB-Core  
-- 🟦 ox_lib  
-- 🖥️ NUI (HTML / CSS / JS)  
-- 🚀 GTA V API  
+
+* ⚡ FiveM Natives
+* 🎮 ESX / QB-Core
+* 🟦 ox_lib
+* 🖥️ NUI (HTML / CSS / JS)
+* 🚀 GTA V API
 
 ### **Tools**
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
@@ -37,19 +41,30 @@ My focus: **quality, stability, design & performance.**
 ---
 
 ## 🛠️ Featured Projects
-- 🔹 Custom NUI Design System  
-- 🔹 Optimized MLO / texture reduction workflows  
-- 🔹 Custom ESX & QB-Core scripts  
-- 🔹 Anti-lag utility tools  
-- 🔹 Server performance & stability upgrades  
+
+* 🔹 Custom NUI Design System
+* 🔹 Optimized MLO / texture reduction workflows
+* 🔹 Custom ESX & QB-Core scripts
+* 🔹 Anti-lag utility tools
+* 🔹 Server performance & stability upgrades
+
+---
+
+## 📜 Nutzungshinweis
+
+Alle FiveM-Skripte können **frei genutzt** werden.
+**Wiederveröffentlichungen sind verboten.**
+Erwähnungen oder Credits sind optional, würden mich aber freuen.
 
 ---
 
 ## 📬 Contact
-📩 **Discord:** `jakobkaiser_newer`  
+
+📩 **Discord:** `jakobkaiser_newer`
 🗂️ **More Projects:** *(coming soon)*
 
 ---
 
 ## ❤️ Support
-If you like my work, consider leaving a ⭐ on my repositories!
+
+Wenn dir meine Arbeit gefällt, hinterlasse gerne eine ⭐ auf meinen Repositories!
