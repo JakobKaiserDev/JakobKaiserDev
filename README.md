@@ -1,39 +1,58 @@
 ![Banner](github-header-banner.png)
 
-# 👋 Hey, ich bin JakobKaiserDev  
-### 🔧 FiveM Developer • Lua • JS • UI/UX • Server Systems
+# 👋 Hey, I'm JakobKaiserDev  
+### 🔧 FiveM Developer • Lua • JS/TS • UI/UX • Server Systems
 
-Ich entwickle moderne, performante und saubere FiveM-Skripte – von Framework-Erweiterungen bis hin zu kompletten Systemen.  
-Mein Fokus: **Qualität, Stabilität, Design & Performance.**
+I develop modern, clean and high-performance FiveM scripts – from framework extensions to complete standalone systems.  
+My focus: **quality, stability, design & performance.**
 
 ---
 
 ## 🚀 Tech Stack
-**Sprachen:**  
-🟦 Lua • 🟨 JavaScript • 🟩 Node.js • 🐍 Python • 🧊 JSON
 
-**FiveM / Game-Dev:**  
-⚡ FiveM-Natives • ESX • QB-Core • Ox_Lib • NUI • GTA V API
+### **Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" />
+</p>
 
-**Tools:**  
-🧰 Visual Studio Code • Git • GitHub • Figma • Photoshop • OpenAI APIs
+### **FiveM / Game Development**
+- ⚡ FiveM Natives  
+- 🎮 ESX / QB-Core  
+- 🟦 ox_lib  
+- 🖥️ NUI (HTML / CSS / JS)  
+- 🚀 GTA V API  
+
+### **Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+</p>
 
 ---
 
-## 🛠️ Meine Projekte (Auswahl)
-- 🔹 Eigenes NUI-Design-System für FiveM  
-- 🔹 MLO-Optimizations & Texture Reductions  
-- 🔹 Custom ESX & QB-Scripts  
-- 🔹 Anti-Lag Utility Tools  
-- 🔹 Server-Performance Upgrades
+## 🛠️ Featured Projects
+- 🔹 Custom NUI Design System  
+- 🔹 Optimized MLO / texture reduction workflows  
+- 🔹 Custom ESX & QB-Core scripts  
+- 🔹 Anti-lag utility tools  
+- 🔹 Server performance & stability upgrades  
 
 ---
 
-## 📬 Kontakt
+## 📬 Contact
 📩 **Discord:** `JakobKaiserDev`  
-🗂️ **GitHub Projects:** *(coming soon)*
+🗂️ **More Projects:** *(coming soon)*
 
 ---
 
 ## ❤️ Support
-Wenn dir meine Arbeit gefällt, lass gern einen ⭐ Stern auf meinen Repos da!
+If you like my work, consider leaving a ⭐ on my repositories!
