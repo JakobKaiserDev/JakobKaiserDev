@@ -29,7 +29,6 @@ My focus: **quality, stability, design & performance.**
 * 🎮 ESX / QB-Core
 * 🟦 ox_lib
 * 🖥️ NUI (HTML / CSS / JS)
-* 🚀 GTA V API
 
 ### **Tools**
 
