@@ -1,69 +1,32 @@
-![Banner](github-header-banner.png)
+# JakobKaiserDev
+**FiveM Dev*
 
-# 👋 Hey, I'm JakobKaiserDev
-
-### 🔧 FiveM Developer • Lua • JS/TS • UI/UX • Server Systems
-
-I develop modern, clean, and high-performance FiveM scripts – from framework extensions to complete standalone systems.  
-My focus: **quality, stability, design & performance.**
+Ich fokussiere mich auf die Entwicklung von High-Performance Systemen für FiveM. Mein Ziel ist sauberer Code, eine geringe CPU-Last (ms) und moderne UI-Lösungen auf Basis von ox_lib und aktuellen Web-Technologien.
 
 ---
 
-## 🚀 Tech Stack
-
-### **Languages**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" />
-</p>
-
-### **FiveM / Game Development**
-
-* ⚡ FiveM Natives
-* 🎮 ESX / QB-Core
-* 🟦 ox_lib
-* 🖥️ NUI (HTML / CSS / JS)
-
-### **Tools**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
+### Expertise
+* **Scripting:** Lua (Natives, ESX, QBCore), TypeScript, JavaScript
+* **UI/UX:** NUI Entwicklung mit HTML/CSS und JS
+* **Tools:** Git, VS Code, ox_lib, Database Optimization (SQL)
+* **Performance:** Refactoring von Legacy-Scripts und Optimierung von Client/Server-Sync
 
 ---
 
-## 🛠️ Featured Projects
-
-* 🔹 Custom NUI Design System
-* 🔹 Optimized MLO / texture reduction workflows
-* 🔹 Custom ESX & QB-Core scripts
-* 🔹 Anti-lag utility tools
-* 🔹 Server performance & stability upgrades
+### Projekte & Fokus
+* Entwicklung von Standalone-Systemen mit hoher Kompatibilität.
+* Custom NUI Design-Systeme für ein einheitliches Server-Interface.
+* Performance-Audits und MLO/Texture-Optimierung.
 
 ---
 
-## 📜 Usage Notice
-
-All FiveM scripts are **free to use**.  
-**Redistribution is prohibited.**  
-Mentions or credits are optional, but always appreciated.
-
----
-
-## 📬 Contact
-
-📩 **Discord:** `jakobkaiser_newer`  
-🗂️ **More Projects:** *(coming soon)*
+### Nutzung & Lizenzen
+Meine veröffentlichten Scripts sind kostenlos nutzbar. 
+* Eine Weiterverbreitung oder der Verkauf der Dateien ist untersagt.
+* Credits sind nicht verpflichtend, werden aber geschätzt.
 
 ---
 
-## ❤️ Support
-
-If you like my work, feel free to leave a ⭐ on my repositories!
+### Kontakt
+* **Discord:** jakobkaiser_newer
+* **GitHub:** ⭐ Member seit [Dein Beitrittsjahr]
